@@ -1,3 +1,11 @@
+# 👨‍💻 Author
+
+**Md. Saiful Islam**
+
+- 🎓 MIS Graduate
+- 📊 Aspiring Data Analyst
+- 💻 SQL | Power BI | Excel | Python
+- [Visit My Portfolio](https://datascienceportfol.io/ownmdsaifulislam)
 # Financial Analytics Dashboard — Power BI
 
 ## Project Overview
@@ -9,8 +17,9 @@ This project demonstrates the use of **Power BI, DAX, Power Query, and data visu
 ---
 
 ## Dashboard Preview
+![Overview Analysis](images/dashboard_page-0001.jpg)
 
-![Financial Analytics Dashboard](./dashboard.png)
+![Transactions](images/dashboard_page-0002.jpg)
 
 ---
 
@@ -116,11 +125,10 @@ The dashboard is built using a structured financial transaction dataset containi
 ## Repository Structure
 
 ```text
-├── Financial_Analytics_Dashboard.pbix
-├── dashboard.png
+├── Dashboard.pbix
+├── images/
 ├── README.md
-└── data/
-    └── financial_transactions.csv
+└── datasets/
 ```
 
 ---
@@ -137,12 +145,3 @@ Through this project, I strengthened my skills in:
 * Interactive data visualization
 * Business intelligence reporting
 
----
-
-## Author
-
-**Md Saiful Islam**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
-
-Feel free to connect with me on LinkedIn and explore more of my data analytics projects.
